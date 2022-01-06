@@ -1,6 +1,7 @@
 # docker-cron
-Ubuntu docker image with cron to send msg " YO! " 
-to run project in your desktop just build run this commands : 
+An example of running cron job in a docker container (Ubuntu image with cron to send msg " YO! ")
+#
+to run project in your desktop just run this commands : 
 ### build image :
 > docker build  -t [image_name] -f Dockerfile . 
 ### run image :
